@@ -21,7 +21,7 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="0271910773102424" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Android_Accelerated_x86_Oreo" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -48,8 +48,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="51" column="3" selection-start-line="51" selection-start-column="3" selection-end-line="51" selection-end-column="3" />
+            <state relative-caret-position="360">
+              <caret line="55" column="7" selection-start-line="55" selection-end-line="56" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -59,12 +59,12 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml">
+          <provider editor-type-id="android-designer2" />
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="918">
               <caret line="54" column="43" selection-start-line="54" selection-start-column="43" selection-end-line="54" selection-end-column="43" />
             </state>
           </provider>
-          <provider editor-type-id="android-designer2" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -167,7 +167,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="AndroidView">
         <subPane>
           <expand>
@@ -181,6 +180,7 @@
       </pane>
       <pane id="ProjectPane" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -339,25 +339,17 @@
       <option name="project" value="LOCAL" />
       <updated>1601972543765</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Test my code">
+      <created>1601973689527</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1601973689527</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="com_pluralsight_candycoded_in_app - 2020.09.29 at 22h 54m 14s.xml">
-      <configuration name="com.pluralsight.candycoded in app" configurationId="AndroidJUnit" />
-    </history-entry>
-    <history-entry file="com_pluralsight_candycoded_in_app - 2020.10.05 at 10h 27m 01s.xml">
-      <configuration name="com.pluralsight.candycoded in app" configurationId="AndroidJUnit" />
-    </history-entry>
-    <history-entry file="com_pluralsight_candycoded_in_app - 2020.10.05 at 11h 04m 55s.xml">
-      <configuration name="com.pluralsight.candycoded in app" configurationId="AndroidJUnit" />
-    </history-entry>
-    <history-entry file="com_pluralsight_candycoded_in_app - 2020.10.05 at 11h 07m 16s.xml">
-      <configuration name="com.pluralsight.candycoded in app" configurationId="AndroidJUnit" />
-    </history-entry>
-    <history-entry file="com_pluralsight_candycoded_in_app - 2020.10.05 at 11h 37m 18s.xml">
-      <configuration name="com.pluralsight.candycoded in app" configurationId="AndroidJUnit" />
-    </history-entry>
     <history-entry file="com_pluralsight_candycoded_in_app - 2020.10.05 at 21h 52m 35s.xml">
       <configuration name="com.pluralsight.candycoded in app" configurationId="AndroidJUnit" />
     </history-entry>
@@ -371,6 +363,21 @@
       <configuration name="com.pluralsight.candycoded in app" configurationId="AndroidJUnit" />
     </history-entry>
     <history-entry file="com_pluralsight_candycoded_in_app - 2020.10.06 at 10h 58m 53s.xml">
+      <configuration name="com.pluralsight.candycoded in app" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="com_pluralsight_candycoded_in_app - 2020.10.06 at 22h 32m 56s.xml">
+      <configuration name="com.pluralsight.candycoded in app" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="com_pluralsight_candycoded_in_app - 2020.10.06 at 22h 33m 42s.xml">
+      <configuration name="com.pluralsight.candycoded in app" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="com_pluralsight_candycoded_in_app - 2020.10.06 at 22h 40m 09s.xml">
+      <configuration name="com.pluralsight.candycoded in app" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="com_pluralsight_candycoded_in_app - 2020.10.06 at 22h 44m 48s.xml">
+      <configuration name="com.pluralsight.candycoded in app" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="com_pluralsight_candycoded_in_app - 2020.10.06 at 23h 13m 15s.xml">
       <configuration name="com.pluralsight.candycoded in app" configurationId="AndroidJUnit" />
     </history-entry>
   </component>
@@ -391,10 +398,10 @@
       <window_info anchor="bottom" id="Logcat" order="1" weight="0.20208023" />
       <window_info anchor="bottom" id="TODO" order="2" />
       <window_info anchor="bottom" id="Terminal" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="4" sideWeight="0.50075644" side_tool="true" weight="0.46088436" />
       <window_info anchor="bottom" id="Build" order="5" visible="true" weight="0.24829932" />
       <window_info anchor="bottom" id="Android Profiler" order="6" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="7" weight="0.46088436" />
+      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.49924356" weight="0.46088436" />
       <window_info anchor="bottom" id="Debug" order="8" />
       <window_info anchor="bottom" id="Find" order="9" />
       <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
@@ -470,12 +477,12 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml">
+      <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="918">
           <caret line="54" column="43" selection-start-line="54" selection-start-column="43" selection-end-line="54" selection-end-column="43" />
         </state>
       </provider>
-      <provider editor-type-id="android-designer2" />
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/test/java/com/pluralsight/candycoded/_4_ShareACandyWithAnIntent.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -528,8 +535,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="51" column="3" selection-start-line="51" selection-start-column="3" selection-end-line="51" selection-end-column="3" />
+        <state relative-caret-position="360">
+          <caret line="55" column="7" selection-start-line="55" selection-end-line="56" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
